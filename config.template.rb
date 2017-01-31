@@ -1,0 +1,3 @@
+JIRAUSER = ""
+JIRAPASS = ""
+JIRAURL = ""
